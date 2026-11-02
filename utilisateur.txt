@@ -1,0 +1,4 @@
+1;2;26072005;mathis.chazeaudmagistrello@edu.ece.fr;Chazeaud--Magistrello;Mathis;true
+2;1;123;sorpion26@gmail.com;CM;Mathis;true
+3;2;25072005;antoine.labarre@edu.ece.fr;Labarre;Antoine;true
+8582;2;Patate1234;nina@ece.fr;ni;na;true
